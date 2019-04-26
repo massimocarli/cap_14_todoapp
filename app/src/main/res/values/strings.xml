@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TODOApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="todo_name_hint">Insert the name of the TODO</string>
+    <string name="todo_description_hint">Insert the description for the TODO</string>
+    <string name="save_button_label">Save</string>
+    <string name="delete_button_label">Delete</string>
+</resources>
